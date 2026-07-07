@@ -1,0 +1,14 @@
+{
+    "game-version": [
+        0,
+        5,
+        0
+    ],
+    "namespace": "BlackAndWhiteRat",
+    "info":{
+        "name": "Black And White Rat",
+        "author": "Ruby",
+        "description": "Makes the rat black and white! (So retro!)"
+    },
+    "instanced": false
+}
